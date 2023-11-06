@@ -1,0 +1,140 @@
+mport React, { useState} from 'react';
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import axios from "axios"
+import "./project.css"
+// import {useNavigate} from 'react';
+
+ export const Add=()=>{
+  
+  const [symposium,setsymposium]=useState({
+    name:"",
+    college:"",
+    emailid:"",
+    contact:0,
+    year:0,
+    tevent:"",
+    ntech:""
+    })
+  // const navigate = useNavigate()
+console.log(symposium)
+  const handlechange=(e)=>{
+      setsymposium((prev)=>({
+        ...prev,
+        [e.target.name]:e.target.value
+      }))
+  }
+  const handleclick=async(e)=>{
+    e.preventDefault()
+     try{
+      await axios.post('http://localhost:2020/insert',symposium)
+     // navigate("/")
+    }
+  
+    catch(err){
+      console.log(err)
+    }
+    // .then(res=>{
+    //   console.log(res)
+    // })
+    // .catch(err=>console.log(err));
+    
+  }
+  return (
+    <>
+    <div className='overallcontent'>
+    <div className='style'>
+      <form className='block' >
+        <div className='font'>
+        <div className='head'><h1>EVENT PROPOSAL</h1></div>
+          <div  className='ej' >
+         
+            <tr><label>Academic year </label>
+            <select name="Technical events">
+              <option>2022-23</option>
+              <option>2023-24</option>
+            </select>
+            
+            </tr>
+         
+         
+    
+         
+          <tr><label>Semester </label>
+            <select name="Semester">
+              <option>ODD</option>
+              <option>EVEN</option>
+            </select>
+            
+            </tr>
+          
+         
+
+            <tr>
+            <label>Name of the Faculty</label>
+            <input type='text' name='faculty' placeholder='Enter Your Mail_ID'  onChange={handlechange}/>
+            </tr>
+          
+         
+
+          
+            <tr>
+            <label> Year</label>
+            <input type='number' name='year' placeholder='Enter Your Number'onChange={handlechange}  />
+            </tr>
+         
+         
+          
+        
+         
+          <tr>
+            <label> Session</label>
+            <input type='number' name='session' placeholder='Enter Your Number'onChange={handlechange}  />
+            </tr>
+           
+          
+            <tr>
+            <label>Course Name</label>
+            <input type='number' name='course' placeholder='Enter Your Number'onChange={handlechange}  />
+            </tr>
+         
+          <tr>
+            <label>Score Obtained</label>
+            <input type='number' name='score' placeholder='Enter Your Number'onChange={handlechange}  />
+            </tr>  
+         
+          <tr><label>Certificate Type </label>
+            <select name="Certficate " >
+              <option>Gold</option>
+              <option>Silver</option>
+              <option>Elite</option>
+              <option>Successfully Completed</option>
+            </select>
+            
+            </tr>
+           
+          <tr>
+            <label>Attachment</label>
+            <input type='number' name='score' placeholder='Enter Your Number'onChange={handlechange}  />
+            </tr>
+           
+          <tr>
+            <label>Certificate-PDF</label>
+            <input type='number' name='score' placeholder='Enter Your Number'onChange={handlechange}  />
+            </tr>
+           
+          </div>
+         
+          <button type='submit' name='submit' onClick={handleclick}>SUBMIT </button>
+          <button  className='clear' type='reset' name='clear'>CLEAR</button>
+        </div>
+      </form>
+    </div>
+    </div>
+    </>
+
+  )
+}
+
+
+export default Add;
