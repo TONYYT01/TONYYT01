@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+# Hi 👋, I'm Naveen Kola
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Software Engineer | Web Developer | Lifelong Learner
 
-## Available Scripts
+I'm a Computer Science and Engineering student passionate about building practical solutions through software development. I enjoy creating web applications, learning new technologies, and solving real-world problems with code.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* 🎓 Pursuing **B.E. in Computer Science and Engineering** at **Muthayammal Engineering College (Autonomous)**
+* 💻 Interested in **Web Development**, **System Design**, and **Software Engineering**
+* 🌱 Currently expanding my skills in modern web technologies and backend development
+* 🤝 Open to internship and software development opportunities
+* 📍 Based in Ongole, India
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Technical Skills
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Languages
 
-### `npm run build`
+* Python
+* Java
+* HTML
+* CSS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frameworks & Technologies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Express.js
+* Node.js
+* React.js
+* REST APIs
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Databases
 
-### `npm run eject`
+* MySQL
+* MongoDB
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Tools
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Git
+* GitHub
+* Postman
+* VS Code
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📂 Featured Project
 
-## Learn More
+### DWDJ – Don't Waste, Just Donate
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+A full-stack web platform designed to connect food donors with delivery riders, enabling efficient redistribution of excess food.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Key Features
 
-### Code Splitting
+* Responsive user interface
+* Secure RESTful APIs
+* Role-based authentication system
+* Verified food donation and delivery workflow
+* Scalable backend architecture
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Tech Stack
 
-### Analyzing the Bundle Size
+* React
+* Vite
+* Node.js
+* Express.js
+* MongoDB
+* MySQL
+* CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+🔗 Live Project: https://dwjd.vercel.app/
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🏆 Certifications
 
-### Advanced Configuration
+* Python Zero to Hero – GUVI
+* Foundation Course on IR4.0 Technologies – TECH SAKSHAM
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🎯 Achievements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Participated in **AICTE Regional Meet 2025**
+* Gained exposure to industry trends, innovation, and academic collaboration
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📚 Education
+
+### Bachelor of Computer Science and Engineering
+
+**Muthayammal Engineering College (Autonomous)**
+CGPA: 8.0
+Expected Graduation: 2026
+
+### Intermediate
+
+**N.R.I Junior College, Ongole**
+Score: 68.5%
+
+### SSC
+
+**Z.P. High School, Basavannapalem**
+GPA: 9.5
+
+---
+
+## 💡 Soft Skills
+
+* Problem Solving
+* Self-Learning
+* Adaptability
+* Presentation Skills
+* Team Collaboration
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: [Your GitHub Profile]
+* LinkedIn: [Your LinkedIn Profile]
+* Email: [naveen.kola.2005@gmail.com](mailto:naveen.kola.2005@gmail.com)
+
+---
+
+### ✨ Motto
+
+> "Keep learning, keep building, and let your work speak for itself."
