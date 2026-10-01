@@ -120,8 +120,8 @@ GPA: 9.5
 
 ## 🌐 Connect With Me
 
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
+* [GitHub](https://github.com/TONYYT01/TONYYT01)
+* [LinkedIn](https://www.linkedin.com/in/naveen-kola-b20a2a401/)
 * Email: [naveen.kola.2005@gmail.com](mailto:naveen.kola.2005@gmail.com)
 
 ---
